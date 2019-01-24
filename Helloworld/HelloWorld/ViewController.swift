@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Helloworld
+//  HelloWorld
 //
-//  Created by 佐藤たかひと on 2019/01/18.
+//  Created by 佐藤たかひと on 2019/01/21.
 //  Copyright © 2019 takahito.sato. All rights reserved.
 //
 
